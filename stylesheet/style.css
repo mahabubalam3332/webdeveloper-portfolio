@@ -169,17 +169,29 @@ nav a {
   font-weight: 700;
   margin-top: 10px;
 }
-.resume-item-institute{
-  margin-bottom:20px;
-  margin-top:0px;
+
+.resume-item-institute {
+  margin-bottom: 20px;
+  margin-top: 0px;
 }
+
 .resume-item-institute,
 .resume-item-descreption {
   color: #757575;
 }
-.resume-container hr{
-  margin:30px;
+
+.resume-container hr {
+  margin: 30px;
 }
-.download-Cv{
+
+.download-Cv {
   text-align: center;
+  margin-top: 50px;
+}
+/* footer-style */
+footer {
+  display: flex;
+  background: #FFF8F3;
+  padding:130px 200px;
+  margin-top: 100px;
 }
